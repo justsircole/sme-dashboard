@@ -1,9 +1,904 @@
 date,branch,product,quantity_sold,price
-2026-06-01,Gaborone,Maize Meal 10kg,45,55
-2026-06-01,Francistown,Maize Meal 10kg,30,55
-2026-06-02,Gaborone,Cooking Oil 2L,20,35
-2026-06-02,Maun,Sugar 2kg,15,22
-2026-06-03,Francistown,Cooking Oil 2L,25,35
-2026-06-03,Gaborone,Sugar 2kg,40,22
-2026-06-04,Maun,Maize Meal 10kg,18,55
-2026-06-04,Gaborone,Rice 5kg,22,60
+2026-04-01,Gaborone,Maize Meal 10kg,20,55
+2026-04-01,Gaborone,Cooking Oil 2L,17,35
+2026-04-01,Gaborone,Sugar 2kg,42,22
+2026-04-01,Francistown,Maize Meal 10kg,23,55
+2026-04-01,Francistown,Cooking Oil 2L,43,35
+2026-04-01,Francistown,Sugar 2kg,48,22
+2026-04-01,Francistown,Rice 5kg,14,60
+2026-04-01,Maun,Maize Meal 10kg,34,55
+2026-04-01,Maun,Cooking Oil 2L,17,35
+2026-04-01,Maun,Rice 5kg,16,60
+2026-04-02,Gaborone,Maize Meal 10kg,6,55
+2026-04-02,Gaborone,Sugar 2kg,39,22
+2026-04-02,Gaborone,Rice 5kg,50,60
+2026-04-02,Francistown,Cooking Oil 2L,12,35
+2026-04-02,Francistown,Rice 5kg,39,60
+2026-04-02,Maun,Cooking Oil 2L,23,35
+2026-04-02,Maun,Rice 5kg,12,60
+2026-04-03,Gaborone,Maize Meal 10kg,9,55
+2026-04-03,Gaborone,Sugar 2kg,34,22
+2026-04-03,Gaborone,Rice 5kg,34,60
+2026-04-03,Francistown,Maize Meal 10kg,7,55
+2026-04-03,Francistown,Cooking Oil 2L,34,35
+2026-04-03,Francistown,Sugar 2kg,17,22
+2026-04-03,Francistown,Rice 5kg,11,60
+2026-04-03,Maun,Maize Meal 10kg,32,55
+2026-04-03,Maun,Cooking Oil 2L,40,35
+2026-04-03,Maun,Sugar 2kg,33,22
+2026-04-04,Gaborone,Maize Meal 10kg,5,55
+2026-04-04,Gaborone,Sugar 2kg,46,22
+2026-04-04,Gaborone,Rice 5kg,18,60
+2026-04-04,Francistown,Maize Meal 10kg,10,55
+2026-04-04,Francistown,Sugar 2kg,24,22
+2026-04-04,Maun,Maize Meal 10kg,13,55
+2026-04-04,Maun,Cooking Oil 2L,40,35
+2026-04-04,Maun,Sugar 2kg,8,22
+2026-04-05,Gaborone,Maize Meal 10kg,23,55
+2026-04-05,Gaborone,Sugar 2kg,47,22
+2026-04-05,Francistown,Maize Meal 10kg,30,55
+2026-04-05,Francistown,Rice 5kg,20,60
+2026-04-05,Maun,Cooking Oil 2L,31,35
+2026-04-05,Maun,Sugar 2kg,10,22
+2026-04-06,Gaborone,Sugar 2kg,39,22
+2026-04-06,Gaborone,Rice 5kg,24,60
+2026-04-06,Francistown,Cooking Oil 2L,30,35
+2026-04-06,Francistown,Rice 5kg,20,60
+2026-04-06,Maun,Maize Meal 10kg,42,55
+2026-04-06,Maun,Sugar 2kg,31,22
+2026-04-06,Maun,Rice 5kg,5,60
+2026-04-07,Gaborone,Maize Meal 10kg,36,55
+2026-04-07,Gaborone,Cooking Oil 2L,13,35
+2026-04-07,Gaborone,Sugar 2kg,23,22
+2026-04-07,Gaborone,Rice 5kg,50,60
+2026-04-07,Francistown,Maize Meal 10kg,30,55
+2026-04-07,Francistown,Cooking Oil 2L,38,35
+2026-04-07,Francistown,Rice 5kg,21,60
+2026-04-07,Maun,Cooking Oil 2L,29,35
+2026-04-08,Gaborone,Cooking Oil 2L,43,35
+2026-04-08,Gaborone,Sugar 2kg,27,22
+2026-04-08,Gaborone,Rice 5kg,33,60
+2026-04-08,Francistown,Cooking Oil 2L,37,35
+2026-04-08,Francistown,Sugar 2kg,12,22
+2026-04-08,Maun,Maize Meal 10kg,7,55
+2026-04-08,Maun,Rice 5kg,21,60
+2026-04-09,Gaborone,Maize Meal 10kg,42,55
+2026-04-09,Gaborone,Cooking Oil 2L,13,35
+2026-04-09,Gaborone,Sugar 2kg,21,22
+2026-04-09,Francistown,Cooking Oil 2L,21,35
+2026-04-09,Francistown,Sugar 2kg,33,22
+2026-04-09,Francistown,Rice 5kg,22,60
+2026-04-09,Maun,Rice 5kg,7,60
+2026-04-10,Gaborone,Maize Meal 10kg,22,55
+2026-04-10,Gaborone,Cooking Oil 2L,12,35
+2026-04-10,Gaborone,Sugar 2kg,12,22
+2026-04-10,Francistown,Maize Meal 10kg,6,55
+2026-04-10,Francistown,Cooking Oil 2L,16,35
+2026-04-10,Maun,Maize Meal 10kg,39,55
+2026-04-10,Maun,Cooking Oil 2L,21,35
+2026-04-11,Gaborone,Maize Meal 10kg,37,55
+2026-04-11,Gaborone,Sugar 2kg,11,22
+2026-04-11,Francistown,Maize Meal 10kg,14,55
+2026-04-11,Francistown,Cooking Oil 2L,5,35
+2026-04-11,Francistown,Rice 5kg,19,60
+2026-04-11,Maun,Cooking Oil 2L,8,35
+2026-04-11,Maun,Rice 5kg,45,60
+2026-04-12,Gaborone,Maize Meal 10kg,26,55
+2026-04-12,Gaborone,Cooking Oil 2L,46,35
+2026-04-12,Gaborone,Sugar 2kg,45,22
+2026-04-12,Gaborone,Rice 5kg,21,60
+2026-04-12,Francistown,Cooking Oil 2L,27,35
+2026-04-12,Francistown,Sugar 2kg,37,22
+2026-04-12,Maun,Sugar 2kg,40,22
+2026-04-12,Maun,Rice 5kg,29,60
+2026-04-13,Gaborone,Maize Meal 10kg,49,55
+2026-04-13,Gaborone,Cooking Oil 2L,30,35
+2026-04-13,Gaborone,Sugar 2kg,18,22
+2026-04-13,Gaborone,Rice 5kg,12,60
+2026-04-13,Francistown,Cooking Oil 2L,5,35
+2026-04-13,Francistown,Sugar 2kg,38,22
+2026-04-13,Maun,Maize Meal 10kg,36,55
+2026-04-13,Maun,Rice 5kg,12,60
+2026-04-14,Gaborone,Cooking Oil 2L,32,35
+2026-04-14,Gaborone,Sugar 2kg,37,22
+2026-04-14,Francistown,Maize Meal 10kg,29,55
+2026-04-14,Francistown,Sugar 2kg,38,22
+2026-04-14,Francistown,Rice 5kg,8,60
+2026-04-14,Maun,Cooking Oil 2L,41,35
+2026-04-15,Gaborone,Maize Meal 10kg,21,55
+2026-04-15,Gaborone,Cooking Oil 2L,8,35
+2026-04-15,Gaborone,Sugar 2kg,41,22
+2026-04-15,Gaborone,Rice 5kg,50,60
+2026-04-15,Francistown,Maize Meal 10kg,5,55
+2026-04-15,Francistown,Cooking Oil 2L,43,35
+2026-04-15,Francistown,Rice 5kg,46,60
+2026-04-15,Maun,Rice 5kg,36,60
+2026-04-16,Gaborone,Maize Meal 10kg,44,55
+2026-04-16,Gaborone,Sugar 2kg,12,22
+2026-04-16,Gaborone,Rice 5kg,45,60
+2026-04-16,Francistown,Maize Meal 10kg,13,55
+2026-04-16,Francistown,Cooking Oil 2L,34,35
+2026-04-16,Francistown,Sugar 2kg,8,22
+2026-04-16,Francistown,Rice 5kg,9,60
+2026-04-16,Maun,Cooking Oil 2L,21,35
+2026-04-16,Maun,Sugar 2kg,6,22
+2026-04-16,Maun,Rice 5kg,47,60
+2026-04-17,Gaborone,Rice 5kg,36,60
+2026-04-17,Francistown,Maize Meal 10kg,21,55
+2026-04-17,Maun,Cooking Oil 2L,41,35
+2026-04-17,Maun,Sugar 2kg,47,22
+2026-04-17,Maun,Rice 5kg,18,60
+2026-04-18,Gaborone,Sugar 2kg,9,22
+2026-04-18,Gaborone,Rice 5kg,28,60
+2026-04-18,Francistown,Cooking Oil 2L,18,35
+2026-04-18,Francistown,Sugar 2kg,14,22
+2026-04-18,Francistown,Rice 5kg,10,60
+2026-04-18,Maun,Maize Meal 10kg,10,55
+2026-04-18,Maun,Cooking Oil 2L,40,35
+2026-04-18,Maun,Rice 5kg,47,60
+2026-04-19,Gaborone,Maize Meal 10kg,33,55
+2026-04-19,Gaborone,Cooking Oil 2L,19,35
+2026-04-19,Francistown,Cooking Oil 2L,27,35
+2026-04-19,Maun,Sugar 2kg,13,22
+2026-04-19,Maun,Rice 5kg,6,60
+2026-04-20,Gaborone,Maize Meal 10kg,10,55
+2026-04-20,Gaborone,Cooking Oil 2L,33,35
+2026-04-20,Gaborone,Sugar 2kg,33,22
+2026-04-20,Francistown,Maize Meal 10kg,10,55
+2026-04-20,Francistown,Cooking Oil 2L,48,35
+2026-04-20,Francistown,Rice 5kg,31,60
+2026-04-20,Maun,Maize Meal 10kg,34,55
+2026-04-20,Maun,Cooking Oil 2L,37,35
+2026-04-20,Maun,Rice 5kg,45,60
+2026-04-21,Gaborone,Sugar 2kg,21,22
+2026-04-21,Francistown,Maize Meal 10kg,16,55
+2026-04-21,Francistown,Sugar 2kg,14,22
+2026-04-21,Francistown,Rice 5kg,33,60
+2026-04-21,Maun,Maize Meal 10kg,30,55
+2026-04-21,Maun,Cooking Oil 2L,13,35
+2026-04-21,Maun,Rice 5kg,47,60
+2026-04-22,Gaborone,Cooking Oil 2L,17,35
+2026-04-22,Gaborone,Rice 5kg,39,60
+2026-04-22,Francistown,Maize Meal 10kg,45,55
+2026-04-22,Francistown,Cooking Oil 2L,25,35
+2026-04-22,Maun,Maize Meal 10kg,45,55
+2026-04-22,Maun,Cooking Oil 2L,45,35
+2026-04-22,Maun,Sugar 2kg,10,22
+2026-04-22,Maun,Rice 5kg,39,60
+2026-04-23,Francistown,Maize Meal 10kg,22,55
+2026-04-23,Francistown,Rice 5kg,6,60
+2026-04-23,Maun,Cooking Oil 2L,35,35
+2026-04-23,Maun,Sugar 2kg,44,22
+2026-04-23,Maun,Rice 5kg,20,60
+2026-04-24,Gaborone,Maize Meal 10kg,31,55
+2026-04-24,Gaborone,Cooking Oil 2L,5,35
+2026-04-24,Francistown,Cooking Oil 2L,42,35
+2026-04-24,Francistown,Sugar 2kg,33,22
+2026-04-24,Francistown,Rice 5kg,9,60
+2026-04-24,Maun,Cooking Oil 2L,15,35
+2026-04-25,Gaborone,Cooking Oil 2L,47,35
+2026-04-25,Gaborone,Rice 5kg,32,60
+2026-04-25,Francistown,Maize Meal 10kg,40,55
+2026-04-25,Maun,Maize Meal 10kg,24,55
+2026-04-25,Maun,Cooking Oil 2L,36,35
+2026-04-25,Maun,Sugar 2kg,27,22
+2026-04-26,Gaborone,Sugar 2kg,39,22
+2026-04-26,Gaborone,Rice 5kg,36,60
+2026-04-26,Francistown,Maize Meal 10kg,47,55
+2026-04-26,Maun,Maize Meal 10kg,10,55
+2026-04-27,Gaborone,Sugar 2kg,32,22
+2026-04-27,Gaborone,Rice 5kg,23,60
+2026-04-27,Francistown,Maize Meal 10kg,24,55
+2026-04-27,Francistown,Sugar 2kg,31,22
+2026-04-27,Francistown,Rice 5kg,21,60
+2026-04-27,Maun,Cooking Oil 2L,15,35
+2026-04-27,Maun,Sugar 2kg,15,22
+2026-04-28,Gaborone,Cooking Oil 2L,44,35
+2026-04-28,Gaborone,Sugar 2kg,29,22
+2026-04-28,Gaborone,Rice 5kg,35,60
+2026-04-28,Francistown,Cooking Oil 2L,30,35
+2026-04-28,Francistown,Sugar 2kg,29,22
+2026-04-28,Francistown,Rice 5kg,9,60
+2026-04-28,Maun,Maize Meal 10kg,22,55
+2026-04-28,Maun,Cooking Oil 2L,10,35
+2026-04-29,Gaborone,Maize Meal 10kg,7,55
+2026-04-29,Gaborone,Sugar 2kg,33,22
+2026-04-29,Francistown,Cooking Oil 2L,36,35
+2026-04-29,Francistown,Sugar 2kg,46,22
+2026-04-29,Francistown,Rice 5kg,42,60
+2026-04-29,Maun,Sugar 2kg,50,22
+2026-04-30,Gaborone,Maize Meal 10kg,14,55
+2026-04-30,Gaborone,Cooking Oil 2L,16,35
+2026-04-30,Gaborone,Sugar 2kg,12,22
+2026-04-30,Gaborone,Rice 5kg,8,60
+2026-04-30,Francistown,Cooking Oil 2L,45,35
+2026-04-30,Francistown,Rice 5kg,12,60
+2026-04-30,Maun,Maize Meal 10kg,31,55
+2026-04-30,Maun,Cooking Oil 2L,26,35
+2026-05-01,Gaborone,Maize Meal 10kg,43,55
+2026-05-01,Gaborone,Cooking Oil 2L,9,35
+2026-05-01,Gaborone,Sugar 2kg,9,22
+2026-05-01,Gaborone,Rice 5kg,35,60
+2026-05-01,Francistown,Cooking Oil 2L,41,35
+2026-05-01,Francistown,Sugar 2kg,49,22
+2026-05-01,Maun,Cooking Oil 2L,25,35
+2026-05-01,Maun,Sugar 2kg,5,22
+2026-05-01,Maun,Rice 5kg,8,60
+2026-05-02,Gaborone,Cooking Oil 2L,22,35
+2026-05-02,Gaborone,Sugar 2kg,7,22
+2026-05-02,Francistown,Maize Meal 10kg,47,55
+2026-05-02,Francistown,Cooking Oil 2L,6,35
+2026-05-02,Francistown,Sugar 2kg,45,22
+2026-05-02,Francistown,Rice 5kg,25,60
+2026-05-02,Maun,Maize Meal 10kg,34,55
+2026-05-02,Maun,Cooking Oil 2L,45,35
+2026-05-02,Maun,Sugar 2kg,40,22
+2026-05-03,Gaborone,Maize Meal 10kg,19,55
+2026-05-03,Gaborone,Cooking Oil 2L,26,35
+2026-05-03,Gaborone,Rice 5kg,44,60
+2026-05-03,Francistown,Maize Meal 10kg,44,55
+2026-05-03,Francistown,Cooking Oil 2L,13,35
+2026-05-03,Francistown,Rice 5kg,47,60
+2026-05-03,Maun,Rice 5kg,47,60
+2026-05-04,Gaborone,Maize Meal 10kg,41,55
+2026-05-04,Gaborone,Rice 5kg,21,60
+2026-05-04,Francistown,Maize Meal 10kg,47,55
+2026-05-04,Francistown,Rice 5kg,40,60
+2026-05-04,Maun,Maize Meal 10kg,35,55
+2026-05-04,Maun,Sugar 2kg,41,22
+2026-05-04,Maun,Rice 5kg,36,60
+2026-05-05,Gaborone,Maize Meal 10kg,11,55
+2026-05-05,Gaborone,Sugar 2kg,13,22
+2026-05-05,Gaborone,Rice 5kg,28,60
+2026-05-05,Francistown,Maize Meal 10kg,34,55
+2026-05-05,Francistown,Sugar 2kg,5,22
+2026-05-05,Francistown,Rice 5kg,25,60
+2026-05-05,Maun,Cooking Oil 2L,28,35
+2026-05-05,Maun,Sugar 2kg,21,22
+2026-05-05,Maun,Rice 5kg,13,60
+2026-05-06,Gaborone,Maize Meal 10kg,40,55
+2026-05-06,Gaborone,Cooking Oil 2L,12,35
+2026-05-06,Gaborone,Sugar 2kg,35,22
+2026-05-06,Francistown,Maize Meal 10kg,14,55
+2026-05-06,Francistown,Cooking Oil 2L,9,35
+2026-05-06,Francistown,Rice 5kg,24,60
+2026-05-06,Maun,Maize Meal 10kg,22,55
+2026-05-06,Maun,Sugar 2kg,36,22
+2026-05-06,Maun,Rice 5kg,5,60
+2026-05-07,Gaborone,Rice 5kg,29,60
+2026-05-07,Francistown,Maize Meal 10kg,37,55
+2026-05-07,Maun,Sugar 2kg,16,22
+2026-05-08,Gaborone,Maize Meal 10kg,33,55
+2026-05-08,Gaborone,Cooking Oil 2L,5,35
+2026-05-08,Gaborone,Sugar 2kg,50,22
+2026-05-08,Gaborone,Rice 5kg,34,60
+2026-05-08,Francistown,Sugar 2kg,49,22
+2026-05-08,Francistown,Rice 5kg,13,60
+2026-05-08,Maun,Sugar 2kg,42,22
+2026-05-09,Gaborone,Cooking Oil 2L,28,35
+2026-05-09,Gaborone,Sugar 2kg,39,22
+2026-05-09,Francistown,Sugar 2kg,32,22
+2026-05-09,Francistown,Rice 5kg,42,60
+2026-05-09,Maun,Maize Meal 10kg,32,55
+2026-05-09,Maun,Cooking Oil 2L,32,35
+2026-05-09,Maun,Sugar 2kg,21,22
+2026-05-09,Maun,Rice 5kg,21,60
+2026-05-10,Gaborone,Maize Meal 10kg,29,55
+2026-05-10,Gaborone,Cooking Oil 2L,8,35
+2026-05-10,Gaborone,Rice 5kg,18,60
+2026-05-10,Francistown,Maize Meal 10kg,44,55
+2026-05-10,Francistown,Cooking Oil 2L,5,35
+2026-05-10,Francistown,Sugar 2kg,14,22
+2026-05-10,Maun,Maize Meal 10kg,50,55
+2026-05-10,Maun,Cooking Oil 2L,6,35
+2026-05-10,Maun,Sugar 2kg,7,22
+2026-05-11,Gaborone,Maize Meal 10kg,11,55
+2026-05-11,Gaborone,Cooking Oil 2L,12,35
+2026-05-11,Gaborone,Sugar 2kg,11,22
+2026-05-11,Francistown,Maize Meal 10kg,35,55
+2026-05-11,Francistown,Sugar 2kg,34,22
+2026-05-11,Maun,Cooking Oil 2L,44,35
+2026-05-12,Gaborone,Cooking Oil 2L,49,35
+2026-05-12,Gaborone,Sugar 2kg,5,22
+2026-05-12,Francistown,Cooking Oil 2L,33,35
+2026-05-12,Maun,Maize Meal 10kg,40,55
+2026-05-12,Maun,Sugar 2kg,23,22
+2026-05-12,Maun,Rice 5kg,44,60
+2026-05-13,Gaborone,Maize Meal 10kg,36,55
+2026-05-13,Gaborone,Sugar 2kg,23,22
+2026-05-13,Gaborone,Rice 5kg,35,60
+2026-05-13,Francistown,Maize Meal 10kg,50,55
+2026-05-13,Francistown,Cooking Oil 2L,21,35
+2026-05-13,Francistown,Rice 5kg,46,60
+2026-05-13,Maun,Maize Meal 10kg,46,55
+2026-05-14,Gaborone,Maize Meal 10kg,21,55
+2026-05-14,Gaborone,Cooking Oil 2L,33,35
+2026-05-14,Francistown,Sugar 2kg,44,22
+2026-05-14,Francistown,Rice 5kg,34,60
+2026-05-14,Maun,Maize Meal 10kg,19,55
+2026-05-15,Gaborone,Sugar 2kg,15,22
+2026-05-15,Gaborone,Rice 5kg,29,60
+2026-05-15,Francistown,Maize Meal 10kg,37,55
+2026-05-15,Francistown,Cooking Oil 2L,47,35
+2026-05-15,Francistown,Sugar 2kg,38,22
+2026-05-15,Francistown,Rice 5kg,24,60
+2026-05-15,Maun,Cooking Oil 2L,48,35
+2026-05-15,Maun,Rice 5kg,28,60
+2026-05-16,Gaborone,Cooking Oil 2L,9,35
+2026-05-16,Gaborone,Rice 5kg,24,60
+2026-05-16,Francistown,Cooking Oil 2L,30,35
+2026-05-16,Maun,Maize Meal 10kg,30,55
+2026-05-16,Maun,Cooking Oil 2L,20,35
+2026-05-16,Maun,Sugar 2kg,8,22
+2026-05-16,Maun,Rice 5kg,35,60
+2026-05-17,Gaborone,Maize Meal 10kg,14,55
+2026-05-17,Gaborone,Cooking Oil 2L,28,35
+2026-05-17,Gaborone,Sugar 2kg,26,22
+2026-05-17,Gaborone,Rice 5kg,44,60
+2026-05-17,Francistown,Cooking Oil 2L,27,35
+2026-05-17,Francistown,Sugar 2kg,12,22
+2026-05-17,Francistown,Rice 5kg,18,60
+2026-05-17,Maun,Maize Meal 10kg,32,55
+2026-05-17,Maun,Rice 5kg,27,60
+2026-05-18,Gaborone,Rice 5kg,28,60
+2026-05-18,Francistown,Cooking Oil 2L,27,35
+2026-05-18,Francistown,Sugar 2kg,33,22
+2026-05-18,Maun,Maize Meal 10kg,6,55
+2026-05-18,Maun,Cooking Oil 2L,49,35
+2026-05-18,Maun,Sugar 2kg,14,22
+2026-05-18,Maun,Rice 5kg,36,60
+2026-05-19,Gaborone,Cooking Oil 2L,24,35
+2026-05-19,Gaborone,Sugar 2kg,5,22
+2026-05-19,Gaborone,Rice 5kg,34,60
+2026-05-19,Francistown,Maize Meal 10kg,49,55
+2026-05-19,Francistown,Cooking Oil 2L,44,35
+2026-05-19,Francistown,Sugar 2kg,20,22
+2026-05-19,Francistown,Rice 5kg,34,60
+2026-05-19,Maun,Maize Meal 10kg,37,55
+2026-05-19,Maun,Sugar 2kg,19,22
+2026-05-19,Maun,Rice 5kg,24,60
+2026-05-20,Gaborone,Cooking Oil 2L,38,35
+2026-05-20,Gaborone,Sugar 2kg,50,22
+2026-05-20,Francistown,Maize Meal 10kg,5,55
+2026-05-20,Francistown,Rice 5kg,48,60
+2026-05-20,Maun,Cooking Oil 2L,32,35
+2026-05-20,Maun,Rice 5kg,30,60
+2026-05-21,Gaborone,Sugar 2kg,42,22
+2026-05-21,Gaborone,Rice 5kg,37,60
+2026-05-21,Francistown,Maize Meal 10kg,22,55
+2026-05-21,Francistown,Sugar 2kg,22,22
+2026-05-21,Maun,Maize Meal 10kg,47,55
+2026-05-21,Maun,Cooking Oil 2L,7,35
+2026-05-21,Maun,Rice 5kg,7,60
+2026-05-22,Gaborone,Cooking Oil 2L,9,35
+2026-05-22,Gaborone,Sugar 2kg,13,22
+2026-05-22,Gaborone,Rice 5kg,28,60
+2026-05-22,Francistown,Maize Meal 10kg,16,55
+2026-05-22,Francistown,Sugar 2kg,8,22
+2026-05-22,Francistown,Rice 5kg,10,60
+2026-05-22,Maun,Cooking Oil 2L,32,35
+2026-05-23,Gaborone,Cooking Oil 2L,38,35
+2026-05-23,Gaborone,Rice 5kg,12,60
+2026-05-23,Francistown,Maize Meal 10kg,27,55
+2026-05-23,Francistown,Cooking Oil 2L,49,35
+2026-05-23,Francistown,Sugar 2kg,47,22
+2026-05-23,Francistown,Rice 5kg,40,60
+2026-05-23,Maun,Cooking Oil 2L,46,35
+2026-05-23,Maun,Sugar 2kg,6,22
+2026-05-23,Maun,Rice 5kg,18,60
+2026-05-24,Gaborone,Maize Meal 10kg,16,55
+2026-05-24,Gaborone,Rice 5kg,17,60
+2026-05-24,Francistown,Maize Meal 10kg,47,55
+2026-05-24,Francistown,Sugar 2kg,5,22
+2026-05-24,Francistown,Rice 5kg,49,60
+2026-05-24,Maun,Cooking Oil 2L,20,35
+2026-05-24,Maun,Sugar 2kg,19,22
+2026-05-24,Maun,Rice 5kg,7,60
+2026-05-25,Gaborone,Cooking Oil 2L,35,35
+2026-05-25,Gaborone,Sugar 2kg,31,22
+2026-05-25,Gaborone,Rice 5kg,29,60
+2026-05-25,Francistown,Cooking Oil 2L,41,35
+2026-05-25,Maun,Maize Meal 10kg,26,55
+2026-05-25,Maun,Sugar 2kg,26,22
+2026-05-25,Maun,Rice 5kg,39,60
+2026-05-26,Gaborone,Maize Meal 10kg,18,55
+2026-05-26,Francistown,Cooking Oil 2L,14,35
+2026-05-26,Francistown,Sugar 2kg,30,22
+2026-05-26,Francistown,Rice 5kg,39,60
+2026-05-26,Maun,Sugar 2kg,11,22
+2026-05-26,Maun,Rice 5kg,38,60
+2026-05-27,Gaborone,Maize Meal 10kg,11,55
+2026-05-27,Gaborone,Sugar 2kg,43,22
+2026-05-27,Gaborone,Rice 5kg,20,60
+2026-05-27,Francistown,Cooking Oil 2L,45,35
+2026-05-27,Francistown,Sugar 2kg,33,22
+2026-05-27,Maun,Cooking Oil 2L,7,35
+2026-05-28,Gaborone,Maize Meal 10kg,18,55
+2026-05-28,Gaborone,Cooking Oil 2L,21,35
+2026-05-28,Gaborone,Sugar 2kg,35,22
+2026-05-28,Francistown,Maize Meal 10kg,22,55
+2026-05-28,Francistown,Sugar 2kg,40,22
+2026-05-28,Maun,Maize Meal 10kg,14,55
+2026-05-28,Maun,Cooking Oil 2L,40,35
+2026-05-28,Maun,Sugar 2kg,31,22
+2026-05-29,Gaborone,Sugar 2kg,31,22
+2026-05-29,Gaborone,Rice 5kg,21,60
+2026-05-29,Francistown,Cooking Oil 2L,32,35
+2026-05-29,Maun,Rice 5kg,35,60
+2026-05-30,Gaborone,Maize Meal 10kg,14,55
+2026-05-30,Gaborone,Rice 5kg,48,60
+2026-05-30,Francistown,Maize Meal 10kg,33,55
+2026-05-30,Francistown,Cooking Oil 2L,36,35
+2026-05-30,Francistown,Rice 5kg,24,60
+2026-05-30,Maun,Maize Meal 10kg,49,55
+2026-05-30,Maun,Sugar 2kg,36,22
+2026-05-30,Maun,Rice 5kg,18,60
+2026-05-31,Gaborone,Cooking Oil 2L,34,35
+2026-05-31,Gaborone,Sugar 2kg,23,22
+2026-05-31,Gaborone,Rice 5kg,18,60
+2026-05-31,Francistown,Maize Meal 10kg,29,55
+2026-05-31,Maun,Sugar 2kg,25,22
+2026-06-01,Gaborone,Maize Meal 10kg,42,55
+2026-06-01,Gaborone,Cooking Oil 2L,30,35
+2026-06-01,Gaborone,Sugar 2kg,10,22
+2026-06-01,Gaborone,Rice 5kg,31,60
+2026-06-01,Francistown,Maize Meal 10kg,6,55
+2026-06-01,Francistown,Sugar 2kg,26,22
+2026-06-01,Francistown,Rice 5kg,33,60
+2026-06-01,Maun,Maize Meal 10kg,9,55
+2026-06-01,Maun,Cooking Oil 2L,43,35
+2026-06-01,Maun,Sugar 2kg,25,22
+2026-06-01,Maun,Rice 5kg,21,60
+2026-06-02,Gaborone,Maize Meal 10kg,7,55
+2026-06-02,Gaborone,Cooking Oil 2L,22,35
+2026-06-02,Gaborone,Sugar 2kg,50,22
+2026-06-02,Francistown,Cooking Oil 2L,26,35
+2026-06-02,Francistown,Rice 5kg,14,60
+2026-06-02,Maun,Maize Meal 10kg,23,55
+2026-06-02,Maun,Cooking Oil 2L,50,35
+2026-06-03,Francistown,Maize Meal 10kg,22,55
+2026-06-03,Francistown,Sugar 2kg,6,22
+2026-06-03,Francistown,Rice 5kg,16,60
+2026-06-03,Maun,Cooking Oil 2L,33,35
+2026-06-04,Gaborone,Maize Meal 10kg,32,55
+2026-06-04,Gaborone,Sugar 2kg,39,22
+2026-06-04,Gaborone,Rice 5kg,45,60
+2026-06-04,Francistown,Maize Meal 10kg,46,55
+2026-06-04,Francistown,Cooking Oil 2L,17,35
+2026-06-04,Francistown,Sugar 2kg,10,22
+2026-06-04,Maun,Maize Meal 10kg,11,55
+2026-06-04,Maun,Cooking Oil 2L,39,35
+2026-06-04,Maun,Sugar 2kg,49,22
+2026-06-04,Maun,Rice 5kg,12,60
+2026-06-05,Gaborone,Maize Meal 10kg,29,55
+2026-06-05,Gaborone,Cooking Oil 2L,22,35
+2026-06-05,Francistown,Cooking Oil 2L,34,35
+2026-06-05,Francistown,Sugar 2kg,27,22
+2026-06-05,Francistown,Rice 5kg,6,60
+2026-06-05,Maun,Cooking Oil 2L,33,35
+2026-06-05,Maun,Sugar 2kg,12,22
+2026-06-06,Gaborone,Maize Meal 10kg,45,55
+2026-06-06,Gaborone,Cooking Oil 2L,39,35
+2026-06-06,Gaborone,Rice 5kg,50,60
+2026-06-06,Francistown,Cooking Oil 2L,35,35
+2026-06-06,Francistown,Sugar 2kg,30,22
+2026-06-06,Maun,Sugar 2kg,21,22
+2026-06-06,Maun,Rice 5kg,30,60
+2026-06-07,Gaborone,Maize Meal 10kg,41,55
+2026-06-07,Gaborone,Cooking Oil 2L,32,35
+2026-06-07,Gaborone,Sugar 2kg,12,22
+2026-06-07,Gaborone,Rice 5kg,23,60
+2026-06-07,Francistown,Maize Meal 10kg,46,55
+2026-06-07,Francistown,Cooking Oil 2L,20,35
+2026-06-07,Francistown,Rice 5kg,20,60
+2026-06-07,Maun,Sugar 2kg,42,22
+2026-06-07,Maun,Rice 5kg,39,60
+2026-06-08,Gaborone,Maize Meal 10kg,38,55
+2026-06-08,Gaborone,Cooking Oil 2L,11,35
+2026-06-08,Gaborone,Sugar 2kg,25,22
+2026-06-08,Gaborone,Rice 5kg,20,60
+2026-06-08,Francistown,Maize Meal 10kg,33,55
+2026-06-08,Francistown,Cooking Oil 2L,16,35
+2026-06-08,Francistown,Sugar 2kg,44,22
+2026-06-08,Francistown,Rice 5kg,22,60
+2026-06-08,Maun,Maize Meal 10kg,12,55
+2026-06-08,Maun,Sugar 2kg,34,22
+2026-06-09,Gaborone,Maize Meal 10kg,12,55
+2026-06-09,Gaborone,Rice 5kg,15,60
+2026-06-09,Francistown,Maize Meal 10kg,39,55
+2026-06-09,Francistown,Cooking Oil 2L,47,35
+2026-06-09,Francistown,Sugar 2kg,17,22
+2026-06-09,Maun,Maize Meal 10kg,49,55
+2026-06-09,Maun,Cooking Oil 2L,6,35
+2026-06-09,Maun,Sugar 2kg,37,22
+2026-06-09,Maun,Rice 5kg,6,60
+2026-06-10,Gaborone,Cooking Oil 2L,18,35
+2026-06-10,Francistown,Maize Meal 10kg,44,55
+2026-06-10,Francistown,Cooking Oil 2L,43,35
+2026-06-10,Francistown,Sugar 2kg,21,22
+2026-06-10,Francistown,Rice 5kg,10,60
+2026-06-10,Maun,Maize Meal 10kg,11,55
+2026-06-10,Maun,Cooking Oil 2L,29,35
+2026-06-10,Maun,Sugar 2kg,44,22
+2026-06-10,Maun,Rice 5kg,30,60
+2026-06-11,Gaborone,Maize Meal 10kg,36,55
+2026-06-11,Gaborone,Sugar 2kg,5,22
+2026-06-11,Francistown,Sugar 2kg,6,22
+2026-06-11,Maun,Maize Meal 10kg,30,55
+2026-06-11,Maun,Cooking Oil 2L,29,35
+2026-06-11,Maun,Sugar 2kg,37,22
+2026-06-11,Maun,Rice 5kg,49,60
+2026-06-12,Gaborone,Maize Meal 10kg,28,55
+2026-06-12,Gaborone,Cooking Oil 2L,25,35
+2026-06-12,Gaborone,Rice 5kg,47,60
+2026-06-12,Francistown,Maize Meal 10kg,10,55
+2026-06-12,Francistown,Cooking Oil 2L,29,35
+2026-06-12,Francistown,Rice 5kg,9,60
+2026-06-12,Maun,Maize Meal 10kg,28,55
+2026-06-12,Maun,Sugar 2kg,21,22
+2026-06-12,Maun,Rice 5kg,24,60
+2026-06-13,Gaborone,Sugar 2kg,14,22
+2026-06-13,Francistown,Cooking Oil 2L,43,35
+2026-06-13,Francistown,Rice 5kg,25,60
+2026-06-13,Maun,Maize Meal 10kg,28,55
+2026-06-14,Gaborone,Maize Meal 10kg,24,55
+2026-06-14,Gaborone,Cooking Oil 2L,34,35
+2026-06-14,Gaborone,Sugar 2kg,27,22
+2026-06-14,Gaborone,Rice 5kg,16,60
+2026-06-14,Francistown,Maize Meal 10kg,39,55
+2026-06-14,Francistown,Cooking Oil 2L,23,35
+2026-06-14,Francistown,Sugar 2kg,16,22
+2026-06-14,Francistown,Rice 5kg,22,60
+2026-06-14,Maun,Maize Meal 10kg,42,55
+2026-06-14,Maun,Cooking Oil 2L,7,35
+2026-06-14,Maun,Rice 5kg,11,60
+2026-06-15,Gaborone,Maize Meal 10kg,33,55
+2026-06-15,Gaborone,Cooking Oil 2L,40,35
+2026-06-15,Gaborone,Sugar 2kg,33,22
+2026-06-15,Gaborone,Rice 5kg,15,60
+2026-06-15,Francistown,Maize Meal 10kg,32,55
+2026-06-15,Francistown,Cooking Oil 2L,40,35
+2026-06-15,Francistown,Rice 5kg,7,60
+2026-06-15,Maun,Rice 5kg,37,60
+2026-06-16,Gaborone,Sugar 2kg,14,22
+2026-06-16,Francistown,Maize Meal 10kg,10,55
+2026-06-16,Francistown,Sugar 2kg,20,22
+2026-06-16,Maun,Maize Meal 10kg,6,55
+2026-06-16,Maun,Cooking Oil 2L,33,35
+2026-06-16,Maun,Sugar 2kg,18,22
+2026-06-16,Maun,Rice 5kg,13,60
+2026-06-17,Gaborone,Maize Meal 10kg,7,55
+2026-06-17,Gaborone,Cooking Oil 2L,50,35
+2026-06-17,Gaborone,Rice 5kg,14,60
+2026-06-17,Francistown,Maize Meal 10kg,31,55
+2026-06-17,Francistown,Sugar 2kg,32,22
+2026-06-17,Francistown,Rice 5kg,26,60
+2026-06-17,Maun,Maize Meal 10kg,39,55
+2026-06-17,Maun,Cooking Oil 2L,11,35
+2026-06-17,Maun,Sugar 2kg,46,22
+2026-06-17,Maun,Rice 5kg,45,60
+2026-06-18,Gaborone,Cooking Oil 2L,41,35
+2026-06-18,Francistown,Cooking Oil 2L,8,35
+2026-06-18,Francistown,Sugar 2kg,44,22
+2026-06-18,Francistown,Rice 5kg,49,60
+2026-06-18,Maun,Maize Meal 10kg,23,55
+2026-06-19,Gaborone,Maize Meal 10kg,11,55
+2026-06-19,Gaborone,Cooking Oil 2L,37,35
+2026-06-19,Francistown,Maize Meal 10kg,24,55
+2026-06-19,Francistown,Rice 5kg,9,60
+2026-06-19,Maun,Maize Meal 10kg,40,55
+2026-06-19,Maun,Sugar 2kg,47,22
+2026-06-19,Maun,Rice 5kg,43,60
+2026-06-20,Gaborone,Maize Meal 10kg,31,55
+2026-06-20,Gaborone,Rice 5kg,26,60
+2026-06-20,Francistown,Maize Meal 10kg,49,55
+2026-06-20,Francistown,Cooking Oil 2L,22,35
+2026-06-20,Francistown,Sugar 2kg,39,22
+2026-06-20,Francistown,Rice 5kg,24,60
+2026-06-20,Maun,Sugar 2kg,24,22
+2026-06-20,Maun,Rice 5kg,32,60
+2026-06-21,Gaborone,Maize Meal 10kg,40,55
+2026-06-21,Gaborone,Cooking Oil 2L,10,35
+2026-06-21,Gaborone,Sugar 2kg,49,22
+2026-06-21,Francistown,Maize Meal 10kg,15,55
+2026-06-21,Francistown,Sugar 2kg,49,22
+2026-06-21,Maun,Maize Meal 10kg,33,55
+2026-06-21,Maun,Cooking Oil 2L,35,35
+2026-06-21,Maun,Rice 5kg,27,60
+2026-06-22,Gaborone,Sugar 2kg,13,22
+2026-06-22,Francistown,Maize Meal 10kg,46,55
+2026-06-22,Francistown,Cooking Oil 2L,21,35
+2026-06-22,Francistown,Sugar 2kg,28,22
+2026-06-22,Francistown,Rice 5kg,32,60
+2026-06-22,Maun,Maize Meal 10kg,24,55
+2026-06-22,Maun,Rice 5kg,16,60
+2026-06-23,Gaborone,Maize Meal 10kg,24,55
+2026-06-23,Gaborone,Cooking Oil 2L,16,35
+2026-06-23,Gaborone,Rice 5kg,11,60
+2026-06-23,Francistown,Sugar 2kg,8,22
+2026-06-23,Francistown,Rice 5kg,38,60
+2026-06-23,Maun,Sugar 2kg,43,22
+2026-06-24,Gaborone,Maize Meal 10kg,5,55
+2026-06-24,Gaborone,Cooking Oil 2L,39,35
+2026-06-24,Francistown,Maize Meal 10kg,40,55
+2026-06-24,Francistown,Sugar 2kg,29,22
+2026-06-24,Francistown,Rice 5kg,19,60
+2026-06-24,Maun,Cooking Oil 2L,45,35
+2026-06-25,Gaborone,Cooking Oil 2L,13,35
+2026-06-25,Gaborone,Sugar 2kg,16,22
+2026-06-25,Francistown,Maize Meal 10kg,49,55
+2026-06-25,Francistown,Cooking Oil 2L,39,35
+2026-06-25,Francistown,Sugar 2kg,19,22
+2026-06-25,Francistown,Rice 5kg,37,60
+2026-06-25,Maun,Sugar 2kg,49,22
+2026-06-26,Gaborone,Maize Meal 10kg,14,55
+2026-06-26,Maun,Maize Meal 10kg,16,55
+2026-06-26,Maun,Cooking Oil 2L,24,35
+2026-06-26,Maun,Sugar 2kg,30,22
+2026-06-26,Maun,Rice 5kg,8,60
+2026-06-27,Gaborone,Maize Meal 10kg,36,55
+2026-06-27,Gaborone,Cooking Oil 2L,21,35
+2026-06-27,Gaborone,Sugar 2kg,26,22
+2026-06-27,Gaborone,Rice 5kg,38,60
+2026-06-27,Francistown,Cooking Oil 2L,35,35
+2026-06-27,Maun,Maize Meal 10kg,46,55
+2026-06-27,Maun,Cooking Oil 2L,9,35
+2026-06-27,Maun,Sugar 2kg,49,22
+2026-06-27,Maun,Rice 5kg,12,60
+2026-06-28,Gaborone,Maize Meal 10kg,38,55
+2026-06-28,Francistown,Maize Meal 10kg,42,55
+2026-06-28,Francistown,Cooking Oil 2L,7,35
+2026-06-29,Gaborone,Sugar 2kg,25,22
+2026-06-29,Francistown,Cooking Oil 2L,40,35
+2026-06-29,Francistown,Sugar 2kg,34,22
+2026-06-29,Francistown,Rice 5kg,24,60
+2026-06-29,Maun,Maize Meal 10kg,30,55
+2026-06-29,Maun,Cooking Oil 2L,29,35
+2026-06-29,Maun,Rice 5kg,5,60
+2026-06-30,Gaborone,Cooking Oil 2L,26,35
+2026-06-30,Gaborone,Rice 5kg,35,60
+2026-06-30,Francistown,Maize Meal 10kg,34,55
+2026-06-30,Francistown,Rice 5kg,25,60
+2026-06-30,Maun,Cooking Oil 2L,25,35
+2026-07-01,Gaborone,Maize Meal 10kg,48,55
+2026-07-01,Gaborone,Cooking Oil 2L,37,35
+2026-07-01,Gaborone,Sugar 2kg,12,22
+2026-07-01,Gaborone,Rice 5kg,7,60
+2026-07-01,Francistown,Rice 5kg,24,60
+2026-07-01,Maun,Maize Meal 10kg,48,55
+2026-07-01,Maun,Cooking Oil 2L,35,35
+2026-07-01,Maun,Rice 5kg,25,60
+2026-07-02,Gaborone,Sugar 2kg,18,22
+2026-07-02,Gaborone,Rice 5kg,30,60
+2026-07-02,Francistown,Maize Meal 10kg,45,55
+2026-07-02,Francistown,Sugar 2kg,22,22
+2026-07-02,Francistown,Rice 5kg,5,60
+2026-07-02,Maun,Maize Meal 10kg,14,55
+2026-07-02,Maun,Cooking Oil 2L,32,35
+2026-07-02,Maun,Sugar 2kg,9,22
+2026-07-02,Maun,Rice 5kg,30,60
+2026-07-03,Gaborone,Maize Meal 10kg,30,55
+2026-07-03,Gaborone,Sugar 2kg,10,22
+2026-07-03,Gaborone,Rice 5kg,10,60
+2026-07-03,Francistown,Maize Meal 10kg,41,55
+2026-07-03,Francistown,Cooking Oil 2L,41,35
+2026-07-03,Francistown,Rice 5kg,10,60
+2026-07-03,Maun,Maize Meal 10kg,44,55
+2026-07-03,Maun,Cooking Oil 2L,10,35
+2026-07-03,Maun,Sugar 2kg,22,22
+2026-07-04,Gaborone,Maize Meal 10kg,36,55
+2026-07-04,Francistown,Maize Meal 10kg,34,55
+2026-07-04,Francistown,Cooking Oil 2L,36,35
+2026-07-04,Francistown,Sugar 2kg,12,22
+2026-07-04,Francistown,Rice 5kg,17,60
+2026-07-04,Maun,Sugar 2kg,7,22
+2026-07-04,Maun,Rice 5kg,9,60
+2026-07-05,Gaborone,Cooking Oil 2L,23,35
+2026-07-05,Gaborone,Sugar 2kg,30,22
+2026-07-05,Gaborone,Rice 5kg,6,60
+2026-07-05,Francistown,Maize Meal 10kg,20,55
+2026-07-05,Francistown,Cooking Oil 2L,45,35
+2026-07-05,Francistown,Rice 5kg,49,60
+2026-07-05,Maun,Maize Meal 10kg,29,55
+2026-07-05,Maun,Cooking Oil 2L,43,35
+2026-07-05,Maun,Rice 5kg,45,60
+2026-07-06,Gaborone,Cooking Oil 2L,7,35
+2026-07-06,Gaborone,Sugar 2kg,43,22
+2026-07-06,Francistown,Maize Meal 10kg,9,55
+2026-07-06,Francistown,Cooking Oil 2L,41,35
+2026-07-06,Maun,Sugar 2kg,6,22
+2026-07-07,Gaborone,Maize Meal 10kg,5,55
+2026-07-07,Gaborone,Sugar 2kg,38,22
+2026-07-07,Gaborone,Rice 5kg,24,60
+2026-07-07,Maun,Maize Meal 10kg,39,55
+2026-07-07,Maun,Cooking Oil 2L,36,35
+2026-07-07,Maun,Sugar 2kg,14,22
+2026-07-08,Gaborone,Maize Meal 10kg,19,55
+2026-07-08,Gaborone,Cooking Oil 2L,15,35
+2026-07-08,Gaborone,Sugar 2kg,49,22
+2026-07-08,Gaborone,Rice 5kg,6,60
+2026-07-08,Francistown,Sugar 2kg,18,22
+2026-07-08,Maun,Maize Meal 10kg,5,55
+2026-07-08,Maun,Cooking Oil 2L,50,35
+2026-07-08,Maun,Sugar 2kg,48,22
+2026-07-09,Gaborone,Maize Meal 10kg,9,55
+2026-07-09,Gaborone,Cooking Oil 2L,7,35
+2026-07-09,Gaborone,Sugar 2kg,11,22
+2026-07-09,Gaborone,Rice 5kg,15,60
+2026-07-09,Francistown,Sugar 2kg,27,22
+2026-07-09,Francistown,Rice 5kg,32,60
+2026-07-09,Maun,Cooking Oil 2L,46,35
+2026-07-10,Gaborone,Maize Meal 10kg,5,55
+2026-07-10,Gaborone,Sugar 2kg,12,22
+2026-07-10,Gaborone,Rice 5kg,42,60
+2026-07-10,Francistown,Cooking Oil 2L,7,35
+2026-07-10,Francistown,Rice 5kg,43,60
+2026-07-10,Maun,Maize Meal 10kg,17,55
+2026-07-10,Maun,Sugar 2kg,47,22
+2026-07-10,Maun,Rice 5kg,7,60
+2026-07-11,Gaborone,Maize Meal 10kg,23,55
+2026-07-11,Gaborone,Cooking Oil 2L,48,35
+2026-07-11,Gaborone,Sugar 2kg,36,22
+2026-07-11,Francistown,Maize Meal 10kg,14,55
+2026-07-11,Francistown,Sugar 2kg,13,22
+2026-07-11,Francistown,Rice 5kg,12,60
+2026-07-12,Gaborone,Maize Meal 10kg,42,55
+2026-07-12,Gaborone,Cooking Oil 2L,21,35
+2026-07-12,Gaborone,Rice 5kg,6,60
+2026-07-12,Francistown,Maize Meal 10kg,15,55
+2026-07-12,Francistown,Cooking Oil 2L,11,35
+2026-07-12,Francistown,Sugar 2kg,48,22
+2026-07-12,Francistown,Rice 5kg,24,60
+2026-07-12,Maun,Maize Meal 10kg,46,55
+2026-07-12,Maun,Cooking Oil 2L,14,35
+2026-07-12,Maun,Rice 5kg,6,60
+2026-07-13,Gaborone,Cooking Oil 2L,33,35
+2026-07-13,Gaborone,Sugar 2kg,23,22
+2026-07-13,Gaborone,Rice 5kg,30,60
+2026-07-13,Francistown,Cooking Oil 2L,40,35
+2026-07-13,Francistown,Sugar 2kg,41,22
+2026-07-13,Maun,Maize Meal 10kg,16,55
+2026-07-13,Maun,Cooking Oil 2L,42,35
+2026-07-13,Maun,Sugar 2kg,48,22
+2026-07-14,Gaborone,Maize Meal 10kg,43,55
+2026-07-14,Gaborone,Rice 5kg,6,60
+2026-07-14,Francistown,Cooking Oil 2L,34,35
+2026-07-14,Francistown,Sugar 2kg,22,22
+2026-07-14,Maun,Maize Meal 10kg,8,55
+2026-07-14,Maun,Cooking Oil 2L,11,35
+2026-07-14,Maun,Sugar 2kg,45,22
+2026-07-14,Maun,Rice 5kg,10,60
+2026-07-15,Gaborone,Sugar 2kg,45,22
+2026-07-15,Gaborone,Rice 5kg,6,60
+2026-07-15,Francistown,Maize Meal 10kg,42,55
+2026-07-15,Francistown,Sugar 2kg,30,22
+2026-07-15,Francistown,Rice 5kg,33,60
+2026-07-15,Maun,Maize Meal 10kg,7,55
+2026-07-15,Maun,Sugar 2kg,20,22
+2026-07-15,Maun,Rice 5kg,18,60
+2026-07-16,Gaborone,Cooking Oil 2L,34,35
+2026-07-16,Gaborone,Rice 5kg,47,60
+2026-07-17,Gaborone,Cooking Oil 2L,16,35
+2026-07-17,Gaborone,Sugar 2kg,9,22
+2026-07-17,Gaborone,Rice 5kg,34,60
+2026-07-17,Francistown,Maize Meal 10kg,12,55
+2026-07-17,Francistown,Rice 5kg,41,60
+2026-07-17,Maun,Maize Meal 10kg,6,55
+2026-07-17,Maun,Cooking Oil 2L,38,35
+2026-07-17,Maun,Sugar 2kg,32,22
+2026-07-17,Maun,Rice 5kg,34,60
+2026-07-18,Gaborone,Maize Meal 10kg,8,55
+2026-07-18,Gaborone,Cooking Oil 2L,33,35
+2026-07-18,Gaborone,Sugar 2kg,38,22
+2026-07-18,Francistown,Maize Meal 10kg,16,55
+2026-07-18,Francistown,Cooking Oil 2L,5,35
+2026-07-18,Francistown,Sugar 2kg,43,22
+2026-07-18,Francistown,Rice 5kg,5,60
+2026-07-19,Gaborone,Maize Meal 10kg,37,55
+2026-07-19,Gaborone,Cooking Oil 2L,13,35
+2026-07-19,Gaborone,Sugar 2kg,15,22
+2026-07-19,Gaborone,Rice 5kg,8,60
+2026-07-19,Francistown,Maize Meal 10kg,32,55
+2026-07-19,Francistown,Cooking Oil 2L,8,35
+2026-07-19,Francistown,Sugar 2kg,37,22
+2026-07-19,Francistown,Rice 5kg,37,60
+2026-07-19,Maun,Maize Meal 10kg,8,55
+2026-07-19,Maun,Cooking Oil 2L,16,35
+2026-07-19,Maun,Rice 5kg,12,60
+2026-07-20,Gaborone,Maize Meal 10kg,29,55
+2026-07-20,Gaborone,Cooking Oil 2L,33,35
+2026-07-20,Gaborone,Sugar 2kg,13,22
+2026-07-20,Gaborone,Rice 5kg,14,60
+2026-07-20,Francistown,Maize Meal 10kg,20,55
+2026-07-20,Francistown,Cooking Oil 2L,32,35
+2026-07-20,Francistown,Sugar 2kg,9,22
+2026-07-20,Maun,Maize Meal 10kg,11,55
+2026-07-20,Maun,Sugar 2kg,46,22
+2026-07-20,Maun,Rice 5kg,17,60
+2026-07-21,Gaborone,Maize Meal 10kg,30,55
+2026-07-21,Gaborone,Cooking Oil 2L,12,35
+2026-07-21,Gaborone,Sugar 2kg,22,22
+2026-07-21,Gaborone,Rice 5kg,43,60
+2026-07-21,Francistown,Cooking Oil 2L,16,35
+2026-07-21,Francistown,Sugar 2kg,38,22
+2026-07-21,Francistown,Rice 5kg,28,60
+2026-07-21,Maun,Maize Meal 10kg,23,55
+2026-07-21,Maun,Cooking Oil 2L,26,35
+2026-07-21,Maun,Sugar 2kg,35,22
+2026-07-21,Maun,Rice 5kg,33,60
+2026-07-22,Gaborone,Maize Meal 10kg,21,55
+2026-07-22,Francistown,Maize Meal 10kg,24,55
+2026-07-22,Francistown,Rice 5kg,49,60
+2026-07-22,Maun,Cooking Oil 2L,27,35
+2026-07-22,Maun,Sugar 2kg,46,22
+2026-07-22,Maun,Rice 5kg,18,60
+2026-07-23,Gaborone,Maize Meal 10kg,27,55
+2026-07-23,Gaborone,Sugar 2kg,13,22
+2026-07-23,Gaborone,Rice 5kg,22,60
+2026-07-23,Francistown,Maize Meal 10kg,35,55
+2026-07-23,Francistown,Cooking Oil 2L,23,35
+2026-07-23,Francistown,Sugar 2kg,13,22
+2026-07-23,Francistown,Rice 5kg,40,60
+2026-07-23,Maun,Maize Meal 10kg,39,55
+2026-07-23,Maun,Sugar 2kg,10,22
+2026-07-23,Maun,Rice 5kg,34,60
+2026-07-24,Gaborone,Cooking Oil 2L,22,35
+2026-07-24,Gaborone,Sugar 2kg,43,22
+2026-07-24,Francistown,Cooking Oil 2L,25,35
+2026-07-24,Francistown,Sugar 2kg,9,22
+2026-07-24,Francistown,Rice 5kg,43,60
+2026-07-24,Maun,Maize Meal 10kg,8,55
+2026-07-24,Maun,Cooking Oil 2L,39,35
+2026-07-25,Gaborone,Maize Meal 10kg,38,55
+2026-07-25,Gaborone,Cooking Oil 2L,28,35
+2026-07-25,Gaborone,Sugar 2kg,25,22
+2026-07-25,Gaborone,Rice 5kg,19,60
+2026-07-25,Francistown,Cooking Oil 2L,19,35
+2026-07-25,Francistown,Sugar 2kg,42,22
+2026-07-25,Francistown,Rice 5kg,6,60
+2026-07-25,Maun,Cooking Oil 2L,44,35
+2026-07-25,Maun,Sugar 2kg,43,22
+2026-07-25,Maun,Rice 5kg,24,60
+2026-07-26,Gaborone,Maize Meal 10kg,8,55
+2026-07-26,Gaborone,Sugar 2kg,13,22
+2026-07-26,Gaborone,Rice 5kg,45,60
+2026-07-26,Francistown,Maize Meal 10kg,38,55
+2026-07-26,Francistown,Sugar 2kg,41,22
+2026-07-26,Francistown,Rice 5kg,45,60
+2026-07-26,Maun,Maize Meal 10kg,19,55
+2026-07-26,Maun,Cooking Oil 2L,37,35
+2026-07-26,Maun,Sugar 2kg,6,22
+2026-07-27,Gaborone,Maize Meal 10kg,31,55
+2026-07-27,Gaborone,Cooking Oil 2L,31,35
+2026-07-27,Gaborone,Rice 5kg,30,60
+2026-07-27,Francistown,Sugar 2kg,26,22
+2026-07-27,Maun,Cooking Oil 2L,29,35
+2026-07-27,Maun,Sugar 2kg,31,22
+2026-07-28,Gaborone,Maize Meal 10kg,8,55
+2026-07-28,Gaborone,Cooking Oil 2L,25,35
+2026-07-28,Francistown,Maize Meal 10kg,31,55
+2026-07-28,Francistown,Cooking Oil 2L,12,35
+2026-07-28,Francistown,Sugar 2kg,50,22
+2026-07-28,Maun,Maize Meal 10kg,16,55
+2026-07-28,Maun,Rice 5kg,41,60
+2026-07-29,Gaborone,Rice 5kg,14,60
+2026-07-29,Francistown,Rice 5kg,38,60
+2026-07-29,Maun,Maize Meal 10kg,42,55
+2026-07-29,Maun,Cooking Oil 2L,28,35
+2026-07-29,Maun,Rice 5kg,25,60
+2026-07-30,Gaborone,Maize Meal 10kg,20,55
+2026-07-30,Gaborone,Sugar 2kg,18,22
+2026-07-30,Francistown,Maize Meal 10kg,27,55
+2026-07-30,Francistown,Sugar 2kg,5,22
+2026-07-30,Francistown,Rice 5kg,25,60
+2026-07-30,Maun,Maize Meal 10kg,17,55
+2026-07-30,Maun,Cooking Oil 2L,44,35
+2026-07-30,Maun,Rice 5kg,35,60
+2026-07-31,Gaborone,Cooking Oil 2L,41,35
+2026-07-31,Gaborone,Sugar 2kg,15,22
+2026-07-31,Francistown,Cooking Oil 2L,34,35
+2026-07-31,Francistown,Sugar 2kg,30,22
+2026-07-31,Maun,Maize Meal 10kg,10,55
+2026-07-31,Maun,Cooking Oil 2L,41,35
+2026-07-31,Maun,Sugar 2kg,35,22
+2026-07-31,Maun,Rice 5kg,17,60
